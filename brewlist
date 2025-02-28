@@ -3,3 +3,4 @@ fzf
 eza
 bottom
 zoxide
+brew install --cask font-meslo-lg-nerd-font
